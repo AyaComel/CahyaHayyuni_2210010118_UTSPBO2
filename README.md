@@ -410,9 +410,10 @@ public class DatabaseHelper {
 | No  | Komponen         |  Persentase  |
 | :-: | --------------   |   :-----:    |
 |  1  | Fungsional Aplikasi    |    20    |
-|  2  | Logika Program   |    30    |
-|  3  |  Events          |    15    |
-|  4  | Kesesuaian UI    |    15    |
-|  5  | Memenuhi Variasi |    20    |
+|  2  | Desain dan UX   |    20    |
+|  3  | Penerapan Konsep OOP         |    15    |
+|  4  | Kreativitas dan Inovasi Fitur   |    15    |
+|  5  | Dokumentasi Kode |    10    |
+|  6  | Tantangan  |    20    |
 |     | TOTAL        | 100 |
 
