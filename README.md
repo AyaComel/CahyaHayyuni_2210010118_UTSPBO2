@@ -29,7 +29,7 @@ Aplikasi ini dibuat menggunakan komponen GUI berikut:
 
 • JFileChooser: Memilih file untuk ekspor data.
 
-## 3. Fitur-fitur dan EventsUtama
+## 3. Fitur-fitur dan Events Utama
 ## a. Menambah data Agenda
 Pengguna dapat menambahkan Agenda baru dengan Tanggal dan Deskripsi.
 ~~~
