@@ -403,3 +403,4 @@ public class DatabaseHelper {
 ~~~
 
 ## 5. Tampilan Aplikasi saat di Run
+![](https://github.com/AyaComel/Latihan3_PengelolaanKontak/blob/main/Latihan3.png)
