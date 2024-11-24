@@ -404,3 +404,15 @@ public class DatabaseHelper {
 
 ## 5. Tampilan Aplikasi saat di Run
 ![](https://github.com/AyaComel/CahyaHayyuni_2210010118_UTSPBO2/blob/main/AgendaPribadi.png)
+
+## Indikator Penilaian:
+
+| No  | Komponen         |  Persentase  |
+| :-: | --------------   |   :-----:    |
+|  1  | Fungsional Aplikasi    |    20    |
+|  2  | Logika Program   |    30    |
+|  3  |  Events          |    15    |
+|  4  | Kesesuaian UI    |    15    |
+|  5  | Memenuhi Variasi |    20    |
+|     | TOTAL        | 100 |
+
